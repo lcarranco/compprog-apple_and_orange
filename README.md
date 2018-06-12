@@ -47,8 +47,8 @@ b<sub>1</sub> b<sub>2</sub> ... b<sub>n</sub>
 
 
 ## Constraints
-* **1 <= _s, t, a, b, m, n_ <= 10<sup>5</sup>**
-* **-10<sup>5</sup> <= _d_ <= 10<sup>5</sup>**
+* **1 &le; _s, t, a, b, m, n_ &le; 10<sup>5</sup>**
+* **-10<sup>5</sup> &le; _d_ &le; 10<sup>5</sup>**
 * **_a_ < _s_ < _t_ < _b_**
 
 ## Output Format
